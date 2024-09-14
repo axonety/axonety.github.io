@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://axonety.github.io/sitemap.html.gz
+Sitemap: https://axonety.github.io/app/sitemap.html.gz
+Sitemap: https://axonety.github.io/assets/sitemap.html.gz
+Sitemap: https://axonety.github.io/css/sitemap.html.gz
+Sitemap: https://axonety.github.io/includes/sitemap.html.gz
+Sitemap: https://axonety.github.io/item/sitemap.html.gz
+Sitemap: https://axonety.github.io/src/sitemap.html.gz
